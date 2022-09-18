@@ -1,7 +1,7 @@
 package ru.netology.mvn;
 
 public class MovieManager {
-    protected  String[] films = new String[0];
+    protected String[] films = new String[0];
     protected int limit;
 
     public MovieManager() {
